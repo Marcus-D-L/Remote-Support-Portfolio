@@ -15,3 +15,7 @@ through clear documentation, structured troubleshooting, and professional commun
 - Troubleshooting playbooks
 - Communication templates
 - Internal knowledge base examples
+
+## Performance Awareness
+This portfolio also demonstrates awareness of key support metrics such as
+first response time, resolution time, ticket categorization, and SLA compliance.
