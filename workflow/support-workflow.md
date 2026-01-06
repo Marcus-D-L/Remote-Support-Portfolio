@@ -1,25 +1,26 @@
 ## Remote Support Workflow
 
-### Intake
-Tickets arrive via email, chat, or form.
+### 1. Ticket Intake
+Support requests may arrive via email, chat, or support portal.
 
-### Triage
-- Identify issue type
-- Assign priority
-- Collect required details
+### 2. Triage & Prioritization
+- Identify issue category (login, VPN, application, etc.)
+- Assess urgency and impact
+- Assign priority level
 
-### Troubleshooting
-- Follow playbooks
-- Document steps taken
-- Confirm resolution
+### 3. Troubleshooting
+- Gather required details from the user
+- Follow documented playbooks when available
+- Document all steps taken in the ticket
 
-### Escalation
-Escalate when:
-- Multiple users affected
-- Security risk present
-- Issue persists after standard steps
+### 4. Escalation
+Escalate issues when:
+- Multiple users are impacted
+- Security or access risks are identified
+- The issue persists after standard troubleshooting
+- A system-wide outage is suspected
 
-### Closure
-- Confirm user resolution
-- Document fix
-- Update KB if repeat issue
+### 5. Resolution & Closure
+- Confirm resolution with the user
+- Provide clear next steps or prevention tips
+- Close the ticket and update documentation if needed
