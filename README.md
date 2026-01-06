@@ -19,3 +19,11 @@ through clear documentation, structured troubleshooting, and professional commun
 ## Performance Awareness
 This portfolio also demonstrates awareness of key support metrics such as
 first response time, resolution time, ticket categorization, and SLA compliance.
+
+## Quick Navigation
+- Tickets: ./ticketing
+- Playbooks: ./playbooks
+- Communication Templates: ./communication
+- Knowledge Base: ./knowledge-base
+- Workflow Overview: ./workflow
+- Metrics: ./metrics
