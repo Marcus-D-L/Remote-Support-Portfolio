@@ -28,6 +28,6 @@ Resolved by correcting system time synchronization and restarting VPN client.
 User confirmed VPN access restored.
 
 ### Screenshot Example
-![Freshdesk VPN ticket](../images/Freshdesk ticket view.png)
+![Freshdesk VPN ticket](../images/Freshdesk-ticket-view.png)
 
 > Example of a resolved VPN ticket with documented troubleshooting steps in Freshdesk.
