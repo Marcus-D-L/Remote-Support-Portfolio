@@ -26,3 +26,8 @@ Resolved by correcting system time synchronization and restarting VPN client.
 
 ### Outcome
 User confirmed VPN access restored.
+
+### Screenshot Example
+![Freshdesk VPN ticket](../images/Resolved-ticket-view.png)
+
+> Example of a resolved VPN ticket with documented troubleshooting steps in Freshdesk.
