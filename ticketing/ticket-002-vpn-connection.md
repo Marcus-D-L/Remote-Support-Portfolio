@@ -29,5 +29,6 @@ User confirmed VPN access restored.
 
 ### Screenshot Example
 ![Freshdesk VPN ticket](../images/resolved-ticket-view.png)
+![Freshdesk VPN ticket](../images/vpn-ticket-freshdesk.png)
 
 > Example of a resolved VPN ticket with documented troubleshooting steps in Freshdesk.
